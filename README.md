@@ -28,7 +28,7 @@ This is an interactive dice game developed using the p5.js library on OpenProces
 
 ## 🚀 How to Run
 1. Clone this repository:
-2. You can try the game here: https://openprocessing.org/sketch/2680086 ; or open the following file
+2. You can try the game here: [SATx](https://openprocessing.org/sketch/2680086); or open the following file
 
 ## 🎮 How to Play
 1. Place your bet (high/low)
