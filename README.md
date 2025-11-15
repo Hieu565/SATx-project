@@ -1,7 +1,6 @@
 # 🎲 SATx
 
-A simple dice betting game built with **p5.js**.  
-Players can roll dice, place bets, answer bonus math questions, and customize the background for a fun, interactive experience.  
+This is an interactive dice game developed using the p5.js library on OpenProcessing. It combines creative design with mathematical logic to simulate dice rolls, and engage users through an intuitive interface. This was created during my RMIT Technology Summer Camp.
 
 ## ✨ Features
 - 🎲 Auto-rolling dice system  
@@ -11,6 +10,21 @@ Players can roll dice, place bets, answer bonus math questions, and customize th
 - 📊 Game state management (track score, bets, and progress)
 - 💾 Save & Load Game Progress (continue where you left off!)
 - 🔄 Refresh Game
+
+## Tools and technologies: 
+- **Language**: JavaScript
+- **Framework**: p5.js
+- **Platform**: OpenProcessing
+- **Additional Concepts**: Random number generation, conditional logic, basic UI interaction
+
+## Key features and process:
+- Auto-rolling dice system
+- Betting system with adjustable stakes
+- Bonus math questions for extra rewards
+- Background customization
+- Game state management
+- Save & Load Game Progress 
+
 
 ## 🚀 How to Run
 1. Clone this repository:
